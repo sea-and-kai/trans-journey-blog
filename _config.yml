@@ -28,7 +28,6 @@ plugins: [jekyll-paginate]
 #permalink:        pretty
 #relative_permalinks: true
 
-tagline:          'A Blog About a Trans Journey'
 baseurl:          /
 
 author:
@@ -45,6 +44,7 @@ github:
 
 
 title: 🏳️‍⚧️ A Blog About a Trans Journey
+tagline: 'A blog about transitioning in my mid-30s'
 email: sea.and.kai@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog about transitioning in my mid-30s.
