@@ -1,0 +1,56 @@
+---
+layout: default
+title: Home
+---
+
+<div class="blog-intro">
+  <h2>🏳️‍⚧️ This blog is dedicated to my friends and family who have been supportive to me throughout this</h2>
+  <p>It is sometimes hard to share my experience with people, either because the subject matter is too heavy to bring up in casual conversation, or the questions are never really asked. There remain things I would like to share, or would at least like to give friends and family the option to learn about so that you might understand me better.</p>
+</div>
+
+<div class="blog-origin">
+  <h3>This blog was originally an interactive storytelling experience</h3>
+  <p>The first 10 blog entries were written in quick succession over the course of 1 weekend during a game jam. If you'd like to read them through the original experience visit <a href="https://a-trans-journey.netlify.app">a-trans-journey.netlify.app</a></p>
+  <p>p.s. The names of people have all been changed out of respect for their privacy</p>
+</div>
+
+<!-- <a href="/blog" class="continue-btn">Continue to Blog ➡️</a> -->
+
+<hr />
+<h2>Latest Posts</h2>
+<hr />
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content | strip_html | truncatewords: 50 }}
+
+    <a href="{{ post.url }}" class="read-more">Read more</a>
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
