@@ -2,10 +2,8 @@
 layout: post
 title:  "Where to begin?"
 date:   2024-05-10 01:00:00 -0400
-categories: jekyll update
+categories: original
 ---
-## Where to begin?
-
 If you're expecting a clear cut explanation of how I have strongly identified with being a woman my whole life, you won't find it here. In my mid 30s I started coming to realize I was trans and, truthfully, I resisted believing it for a long time even as I took steps to transition to an existence that felt more authentic to me.
 
 We are often looking for a clear cut origin story. That's not always the case. For some trans folks out there it has been this clear, but for many of us it's been far from anything easily summarized in a sentence or two. There is a pressure out there in society to have some story that justifies our existence and why it all makes sense. I've realized it overinvestigating the past for justifications at every step in life can become an exhausting task. And for what? So you can compile a little story for the skeptical that proves you are valid? No.

@@ -3,6 +3,7 @@ layout: default
 title: Home
 ---
 
+{% if paginator.page == 1 %}
 <div class="blog-intro">
   <h2>🏳️‍⚧️ This blog is dedicated to my friends and family who have been supportive to me throughout this</h2>
   <p>It is sometimes hard to share my experience with people, either because the subject matter is too heavy to bring up in casual conversation, or the questions are never really asked. There remain things I would like to share, or would at least like to give friends and family the option to learn about so that they might understand me better.</p>
@@ -17,6 +18,24 @@ title: Home
 <hr />
 <h2>Latest Posts</h2>
 <hr />
+{% else %}
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
+{% endif %}
 
 <div class="posts">
   {% for post in paginator.posts %}
