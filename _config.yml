@@ -18,30 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# Dependencies
-#markdown:         redcarpet
-#highlighter:      pygments
-
 plugins: [jekyll-paginate]
-
-# Permalinks
-#permalink:        pretty
-#relative_permalinks: true
-
 baseurl:          /
 
 author:
   name:           'Kai Tomes'
-#  url:            https://twitter.com/mdo
+  url:            https://instagram.com/sea_and_kai
 
 paginate:         5
 
 # Custom vars
 version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
-
 
 title: 🏳️‍⚧️ A Blog About a Trans Journey
 tagline: 'A blog about transitioning in my mid-30s'
