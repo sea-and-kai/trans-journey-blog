@@ -4,8 +4,6 @@ title:  "Paying It Forward"
 date:   2024-05-10 07:00:00 -0400
 categories: original
 ---
-## Paying It Forward
-
 After spending enough time building my own confidence in public, I felt like I had the capacity to give back to people who were in the situation I once was in. From time to time when navigating social media and dating sites you will meet folks who say they look up to you and want your help. Who would I be to deny this after such an extension of gratuity from others helped me?
 
 I have tried on many occasions with varying levels of success to help other people come out in public. Unfortunately, I have seen many people disappear on me suddenly, come up with excuses, or simply admit they don't think they're ready when the time comes.

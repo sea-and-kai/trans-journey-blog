@@ -4,9 +4,6 @@ title:  "Discretion"
 date:   2024-05-10 02:00:00 -0400
 categories: original
 ---
-## Discretion
-
-
 ### "Are you discreet?"
 ### "Do you live alone"
 ### "Do your neighbours know?"
