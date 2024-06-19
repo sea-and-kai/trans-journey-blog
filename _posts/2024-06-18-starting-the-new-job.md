@@ -12,7 +12,7 @@ Yesterday I started my new job. I had a surprising amount of anxiety building up
 
 As far as my identity is concerned, I am not really trying to hide anything. It's not a topic I'm bringing up either. I have plenty of clear indicators I'm queer. From light use of makeup like mascara and lip oil, nail polish and earrings. I've also been pitch shifting my voice to sound less overtly masculine for years. It's just about my normal now. What else do I really need right now?... well...
 
-### The name and proununs
+### The name and pronouns
 
 The biggest thing I am missing out on right now is identifying as Kai (she/her). I'm continuing to use my birth name and he/him pronouns at this time. The hardest part of the day was confirming my birth name into all the software tools I'd been given access to - I counted over 15! Confirmation after confirmation sort of piles on the brain and gets a bit exhausting. I've never found myself bothered by a little misgendering here or there. When it's repeated in quick succession I've noticed it starts to accumulate. It can lead to a bit of dissociation.
 
