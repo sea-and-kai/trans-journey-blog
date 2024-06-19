@@ -2,7 +2,7 @@
 layout: post
 title:  "I'm starting a new job in a week and I’m not out as trans yet in my career"
 date:   2024-06-12 09:00:00 -0400
-categories: coming-out
+categories: ["coming-out", "career"]
 ---
 With the exciting news that I’m starting a new job has come the anxieties of starting a new job. Particularly the anxieties you get after you’ve come out trans everywhere else in your life just a month ago; what fun!
 
