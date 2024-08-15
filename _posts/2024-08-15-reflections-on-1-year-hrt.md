@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reflections on 1 year of hormone replacement"
-date:    2024-08-15 09:00:00 -0400
+date:    2024-08-15 08:00:00 -0400
 categories: ["transition", "hrt"]
 ---
 
