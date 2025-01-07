@@ -10,7 +10,7 @@ It's been a while since I've found the time to sit down and write in long form. 
 Rather than make this about a review on 2024 or a goals setting post for 2025, let me just try to blast through a variety of topics and do my best to catch you up on what's been happening.
 
 ### Dating
-In the earlier half of 2024 I was struggling quite a bit to find what I wanted in relationships. I felt like I was always being let down like by the people I met which led to a lot of time wasted and emotional investment in the wrong places.
+In the earlier half of 2024 I was struggling quite a bit to find what I wanted in relationships. I felt like I was always being let down by the people I met which led to a lot of time wasted and emotional investment in the wrong places.
 
 While I am still single, I do feel things got a lot better in the second half of the year. Part of it came out of continuously growing, learning and becoming a more confident person with the right energy and attitude to attract better people.
 
@@ -25,14 +25,14 @@ This hair transplant has been a huge gamechanger in my life. As much as I love s
 > This picture compares a photo from Spring 2024, ~5 months into recovery, to a recent one taken in January 2025
 
 ### The New Home
-After looking for places in my area for the last 3 years I finally found a deal I couldn't pass up and bought my first home! The last place was a great home for hosting friends and building community so I'm glad I only had to move a few doors down on the same block, into the same kind of unit, to become a first-time owner. My life was a little bit disrupted by this, but I'm now back in action and really looking forward to more hosting for friends and community. I feel like I can finally nest into this place and not worry about being evicted, which has happened to me twice before in Toronto for renovation/sale reasons. While this new is not directly trans-related, stability is a cornerstone of making this journery possible.
+After looking for places in my area for the last 3 years I finally found a deal I couldn't pass up and bought my first home! The last place was a great home for hosting friends and building community so I'm glad I only had to move a few doors down on the same block, into the same kind of unit, to become a first-time owner. My life was a little bit disrupted by this, but I'm now back in action and really looking forward to more hosting for friends and community. I feel like I can finally nest into this place and not worry about being evicted, which has happened to me twice before in Toronto for renovation/sale reasons. While this news is not directly trans-related, stability is a cornerstone of making the journey possible.
 
 ### The Euro Trip
 Anyone following me on Instagram in November had the opportunity to follow along as I took a trip to the UK and Spain for a couple of big accomplishments
 
 1. I visited my family in the UK and travelled into London one night to go out in the Soho area. This was my first time glamming up and going out alone in another country. Before I travelled downtown that night I made connections online with a couple other gender non-conforming folks who expressed interest in meeting me there. Unfortunately, both people got cold feet and didn't show up. It was a bit of a downer since I didn't get a chance to make any new friends, but it also reminded me how far I've come to be out in another country alone encouraging locals to join me like it's no big deal.
 
-2. I travelled from London to Marbella, Spain in order to get an in-person consultation for Facial Feminization Surgery (FFS) with the surgical clinic FacialTeam. This is another subject that deserves it's own blog entry eventually, but to summarize, it was a pretty valuable journey for me. It triggered a lot personal reflection that I needed to do. Reflections about what I really want, who I was doing the surgery for and what realistic outcomes I could expect. This lead me to some pretty important actions that I took when I got home.
+2. I travelled from London to Marbella, Spain in order to get an in-person consultation for Facial Feminization Surgery (FFS) with the surgical clinic FacialTeam. This is another subject that deserves it's own blog entry eventually, but to summarize, it was a pretty valuable journey for me. It triggered a lot personal of reflection that I needed to do. Reflections about what I really want, who I was doing the surgery for and what realistic outcomes I could expect. This lead me to some pretty important actions that I took when I got home.
 
 ### Coming out at work
 At the end of my journey to Europe I was convinced that waiting on FFS before I could come out at work was a mistake. I felt like if I was really serious about transitioning, if this wasn't just some delusion I was chasing, then I couldn't wait on any surgery or procedure before making that change. So I decided that I would dress very femme in full make-up for my work holiday party. Three weeks later that's exactly what I did, and it went really well. 
