@@ -19,7 +19,7 @@ Soon after, just before the new year, I sat down with my CEO and told him I was 
 
 ### Planning the Announcement
 
-HR and I brainstormed a few approaches. Initially, we considered disseminating the news through team leads, but the potential for a “broken telephone” effect didn’t sit well. Announcing it during an all-hands meeting felt far too grandiose for my tastes as well. Ultimately, we settled on a more personal, measured approach. I would announce it in Slack, our company’s chat program, after I had shared the news directly with my immediate team.
+HR and I brainstormed a few approaches. Initially, we considered disseminating the news through team leads, but the potential for a “broken telephone” effect didn’t sit well. Announcing it during an all-hands meeting felt far too grandiose for my tastes as well. Ultimately, we settled on a more personal, measured approach. My CEO would announce it in Slack, our company’s chat program, after I had shared the news directly with my immediate team.
 
 The day of the announcement, one of my colleagues had an early appointment, so I messaged them in advance. They ended up being the first person to hear the news and their warm, supportive response almost made me cry. In a way, it was the perfect start. Sharing the news with them helped me shake off my jitters and deliver the announcement to everyone else with grace—both on Slack and, later, to my LinkedIn network.
 
