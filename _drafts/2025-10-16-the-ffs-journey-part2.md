@@ -29,20 +29,26 @@ When I returned home it was nice to finally settle into my own space after 3 wee
 It was hard for me to leave the house for a while. I didnt really like facing the public while I felt uncomfortable about my own appearance but I learned bit by bit that most people couldn't even tell. They don't know my face as well as I do, afterall! I worked from home for the first 8 weeks and didn't go go into the office on Fridays as I usually do, or even use my camera for a while. My workplace was understanding and supportive of this journey for me so it wasn't a bother or surprise to anyone.
 
 ## Reaching cruising altitude
-I had my first outing at 5 weeks of recovery. I went to a Blue Jays game with some friends. It was a fun time and my friends were very kind and affirming of how things were looking. It was good that a pushed myself a little bit, I think, even though when I look back at the photos I notice there really was a lot of swelling compared to how I look now.
+I had my first formal outing at 5 weeks of recovery. I went to a Blue Jays game with some friends who were very kind and affirming of how things were looking.  I look back at the photos I notice there really was a lot of swelling compared to how I look now, but it was good that a pushed myself a little bit. I wasn't benefitting emotionally from just staying home, even though it felt safe.
 
-At 6 weeks I was able to start exercising again, which I started very lightly. At 8 weeks I was starting to get a lot more confidence to go out and start forgetting about my recovery.
+At 6 weeks I was able to start exercising again, which I started very lightly. It felt nice to move again, but it has taken a while to get back into a routine as storng as I had before surgery. At 8 weeks I was starting to get a lot more confidence to go out and start forgetting about my recovery. The first week of Pride Month, when I returned to the office, I brought cookies for my coworkers to share. Noone at work has ever commented on my appearance since I returned. It was totally normal and back to business from day one, which is how I wanted it to be.
 
 ## The 3 month recovery marker
-    - endotines
-    - less present on my mind
-    - swelling under much better control
-    - more attention from women, about the same from men
-    - confidence rising
-    - still maybe pushing for normalcy too soon
-    - pushing for dating asap
+
+As I recovered over the summer the recovery was less present on my mind. Discolouration was long gone and whatever swelling was barely noticeable to me anymore. Recovery continues for months more, particularly the nose which takes a year to fully settle. However, nothing was getting in the way of living my life as normal. I was starting to enjoy the new level of correct gendering I was receiving in my day to day life. It's not perfect, but it's far more common for people to gender me correctly now.
+
+As I began to stretch my legs I started to get back into dating as well. I hadn't been dating much for 3 months in advance of my surgery, so it was about 5 months since I had been on a date by summertime. FFS had helped a lot with my confidence, but I think I was pushing myself pretty hard to find a relationship afterward. I noticed I was letting myself get very emotional over connections as I had been doing last year, and I found myself sinking an extraordinary amount of time into dating and social media sites. It came to a point I needed a detox break for a few weeks to decompress and break habits. I still have time limit warnings on my phone to help remind me to keep it cut down.
 
 ## 6 months recovery
-    - still numbness
-    - nose adjusting
-    - eyebrows
+
+As of writing this blog I am now 6 months recovered from surgery. I think in the last 3 months I've found a lot more emotional stability. I've also found a lot more confidence in not just my appearance, but my value as a partner. I think in the past I was sort of grasping at straws trying to find a partner and pouring too much energy into people that were playing avoidant games. I've been seeing a lot of merit to the peace that comes from not trying to read between lines or explain my worth to folks that aren't meeting my expectations.
+
+I know this blog entry is about surgery recovery, so the dating talk might seem out of place, but this surgery's contribution to my self confidence to attack the dating world has been a really big deal. I feel like I've grown a lot over this period in ways I couldn't event predict.
+
+## Recovery today
+
+I'm still not 100% recovered from surgery, but I'm getting there. I still have a bit of numbness around my head and brow, my nose appears to be adjusting bit by bit. The endotines that were implanted are mostly dissolved, but I still have a small bump on my head from one of them. 
+
+## 10/10 Would recommend 👍
+
+The last thing I will say is that I see why people say FFS is a gamechanger operation. I was able to predict some of the ways it would impact my life, but I was entirely unprepared for the emotional journey it would put me through. There is a lot of emotional suffering before and immediately after the surgery. I think it's important to be prepared for that. However on the other side it has been an experienced that put me to the test and I feel like I'm coming out so much stronger.
