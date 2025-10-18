@@ -3,6 +3,7 @@ layout: post
 title:  "On meeting old friends and family for the first time"
 date:    2024-07-29 09:00:00 -0400
 categories: ["transition", "dating"]
+tags: ["Transition", "Dating"]
 ---
 
 I have an old friend that I've known since I was 6 years old. The other night at my parents place we had a dinner with him, his gf and his parents, who I haven’t seen in 25 years probably.

@@ -3,6 +3,7 @@ layout: post
 title: "I Came Out Trans at Work"
 date: 2025-01-27 09:00:00 -0400
 categories: ["coming-out", "career"]
+tags: ["Coming Out", "Career"]
 ---
 
 Back in June, I wrote about starting a new job and feeling apprehensive about coming out as trans right away. I was fairly confident it would happen eventually, but I wasn’t ready. At the time, I chose to tread lightly; dressing a bit more androgynously, wearing earrings, and keeping nail extensions. It was subtle, but enough to feel like myself in small ways.

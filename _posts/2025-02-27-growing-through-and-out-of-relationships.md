@@ -3,6 +3,7 @@ layout: post
 title: "Growing through, and out of, relationships"
 date: 2025-02-27 20:00:00 -0400
 categories: ["dating"]
+tags: ["Dating"]
 ---
 
 Sometimes I reflect back on the way I used to date before I started exploring and transitioning. I really have trouble understanding what I was doing at times. Not because I can’t remember, but my detachment from myself had me navigating relationships very differently.

@@ -3,6 +3,7 @@ layout: post
 title:  "Starting the new job"
 date:   2024-06-18 09:00:00 -0400
 categories: ["coming-out", "career"]
+tags: ["Coming Out", "Career"]
 ---
 Yesterday I started my new job. I had a surprising amount of anxiety building up in the days just prior, for a couple key reasons:
 

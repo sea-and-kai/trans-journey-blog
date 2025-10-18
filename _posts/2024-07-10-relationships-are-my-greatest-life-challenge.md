@@ -3,6 +3,7 @@ layout: post
 title:  "Relationships with men; the biggest challenge in my life"
 date:    2024-07-10 09:00:00 -0400
 categories: ["dating"]
+tags: ["Dating"]
 ---
 
 > This is one of the hardest personal blog posts I’ve ever had to write. I’ve actually been sitting on this topic for weeks mulling over the content, the tone and the level of exposure I'm comfortable with. In the process I've realized that this topic is just too complex to fully capture in a blog post. I still feel like I'm so in the thick of it that new ideas and experiences are coming all the time. This is my best attempt at collecting thoughts on dating men as a trans woman so far.

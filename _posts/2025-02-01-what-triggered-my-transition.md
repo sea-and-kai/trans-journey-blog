@@ -2,7 +2,8 @@
 layout: post
 title: "What triggered my transition"
 date: 2025-02-01 09:00:00 -0400
-categories: ["dating"]
+categories: ["transition"]
+tags: ["Transition"]
 ---
 
 It took so much for me to start to really explore my gender identity.

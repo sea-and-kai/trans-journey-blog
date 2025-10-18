@@ -3,6 +3,7 @@ layout: post
 title:  "I’m living in a transient state"
 date:    2024-09-03 09:00:00 -0400
 categories: ["transition"]
+tags: ["Transition"]
 ---
 
 In my line of work we sometimes talk about “transient states” which, in software application terms, usually refers to the temporary animations from one state to another. e.g When you hit the “ON” button and the page shifts things around, shows or hides content gracefully. It helps onlookers understand how their action has adjusted things. 

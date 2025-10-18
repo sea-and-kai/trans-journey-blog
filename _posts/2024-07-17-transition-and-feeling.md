@@ -3,6 +3,7 @@ layout: post
 title:  "On the subject of transition and feeling"
 date:    2024-07-17 09:00:00 -0400
 categories: ["transition", "dating"]
+tags: ["Transition", "Dating"]
 ---
 
 I recently wrote about my challenges with the world of seriously dating men, or attempting so. This was a kind of a heavy subject and a pretty big brain dump of ideas. I was actually worried when I posted it that it may just be too much, too personal or too sad.

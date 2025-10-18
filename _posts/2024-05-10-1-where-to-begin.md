@@ -3,6 +3,7 @@ layout: post
 title:  "Where to begin?"
 date:   2024-05-10 01:00:00 -0400
 categories: original
+tags: ["Transition", "Coming Out"]
 ---
 If you're expecting a clear cut explanation of how I have strongly identified with being a woman my whole life, you won't find it here. In my mid 30s I started coming to realize I was trans and, truthfully, I resisted believing it for a long time even as I took steps to transition to an existence that felt more authentic to me.
 

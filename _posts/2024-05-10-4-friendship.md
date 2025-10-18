@@ -3,6 +3,7 @@ layout: post
 title:  "Friendship"
 date:   2024-05-10 04:00:00 -0400
 categories: original
+tags: ["Community"]
 ---
 My friend Alex and I met through the dating site OKCupid. We had a mutual interest in making new friendships, so we set up plans one Friday evening to hang out at their place. This was one of the first times I had met a trans person and felt so comfortable and human. We had drinks, shared laughs and got theoretical about gender with one another very quickly. It was nice to meet someone a similar age, working in a similar field who understood what I was going through so well. They had navigated this journey already for many years and demonstrated such a relaxed attitude towards navigating gender identity. 
 

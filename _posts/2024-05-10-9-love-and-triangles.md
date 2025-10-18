@@ -3,6 +3,7 @@ layout: post
 title:  "Love and Triangles"
 date:   2024-05-10 09:00:00 -0400
 categories: original
+tags: ["Dating"]
 ---
 I recently ended the first relationship I’ve ever had where I fell in love with a man. Beyond that there were a lot of other firsts and I grew as a person in the 5 months we spent texting or audio/video calling every day. 
 

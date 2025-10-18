@@ -3,6 +3,7 @@ layout: post
 title:  "Years and years"
 date:    2025-01-06 09:00:00 -0400
 categories: ["reflection"]
+tags: ["Reflection"]
 ---
 
 It's been a while since I've found the time to sit down and write in long form. I've been active on Instagram still, just because sometimes it's easier sometimes to dump a quick thought into a story post. I've also trying to practice my comfort with off-the-cuff public speaking through Instagram stories a little bit. In any case, I've really wanted to find more time to write because I have a pile of things to talk about. Hopefully this year I can find a way to get more ideas on paper as they happen.

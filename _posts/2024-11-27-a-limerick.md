@@ -3,6 +3,7 @@ layout: post
 title:  "A limerick"
 date:    2024-11-27 09:00:00 -0400
 categories: ["dating"]
+tags: ["Dating"]
 excerpt_separator: "<!--more-->"
 ---
 There once was a girl named Kai

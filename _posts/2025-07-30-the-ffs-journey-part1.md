@@ -3,6 +3,7 @@ layout: post
 title: "The Facial Feminization Journey - Part 1"
 date: 2025-07-30 09:00:00 -0400
 categories: ["ffs", "surgery"]
+tags: ["FFS", "Surgery"]
 ---
 
 It's been yet another long break from blogging, but this has been a different kind of year so far. I think generally it's a good thing when I'm not writing here as often because the purpose of this blog originally was to help myself feel more understood by friends and family and that's been going really well. However, to say that this year has been unremarkable would be a lie. It's actually been one of the biggest leaps forward yet and that has in a big way been due to going for Facial Feminization Surgery (FFS) back in April.

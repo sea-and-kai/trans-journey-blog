@@ -2,7 +2,8 @@
 layout: post
 title:  "I came out trans on Facebook this week"
 date:   2024-05-28 11:00:00 -0400
-categories: coming-out
+categories: ["coming-out"]
+tags: ["Coming Out"]
 ---
 A few days ago I finally mustered the courage to come out to my extended family and old friends on Facebook about my gender identity. In comparison to the hurdle that telling my parents felt like, this was easy. I give my family’s support credit for making me feel ready to do this sooner.
 

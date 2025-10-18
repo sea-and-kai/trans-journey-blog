@@ -3,6 +3,7 @@ layout: post
 title: "We all play the numbers game in online dating"
 date: 2025-03-06 20:00:00 -0400
 categories: ["dating"]
+tags: ["Dating"]
 ---
 
 I frequently hear the sentiment that women have it easier than men in online dating. This is because at a high level we most commonly see that women receive all the messages and get their pick, while men toil away, taking their shots one after another and frequently getting no response.
