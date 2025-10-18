@@ -248,3 +248,33 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Post Navigation */
+.post-navigation {
+  display: flex;
+  justify-content: space-between;
+  margin: 3rem 0;
+  padding: 1.5rem 0;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+
+.post-navigation a {
+  text-decoration: none;
+  color: #268bd2;
+  font-weight: 500;
+  max-width: 45%;
+}
+
+.post-navigation .prev-post {
+  text-align: left;
+}
+
+.post-navigation .next-post {
+  text-align: right;
+  margin-left: auto;
+}
+
+.post-navigation a:hover {
+  text-decoration: underline;
+}
