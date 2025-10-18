@@ -29,7 +29,7 @@ Browse posts by tag. Use the tag list to jump to a section.
 
 {% for tag in tags_list %}
   {% assign tag_name = tag[0] %}
-  <h2 id="{{ tag_name | slugify }}">{{ tag_name }}</h2>
+  <h2 id="{{ tag_name | slugify }}">{{ tag_name }} <span class="count">({{ tag[1].size }})</span></h2>
   {% assign posts = tag[1] | sort: 'date' | reverse %}
   <ul class="tag-posts">
     {% for post in posts %}
