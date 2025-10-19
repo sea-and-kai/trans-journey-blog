@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Facial Feminization Journey - Part 2"
-date: 2025-10-16 09:00:00 -0400
+date: 2025-10-19 00:00:00 -0400
 categories: ["ffs", "surgery"]
 tags: ["FFS", "Surgery"]
 ---
