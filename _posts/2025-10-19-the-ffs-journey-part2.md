@@ -3,7 +3,7 @@ layout: post
 title: "The Facial Feminization Journey - Part 2"
 date: 2025-10-19 00:00:00 -0400
 categories: ["ffs", "surgery"]
-tags: ["FFS", "Surgery"]
+tags: ["FFS", "Surgery", "Reflection"]
 ---
 
 > I decided to wait a little bit of time before I wrote the part 2 of this blog. Even at 6 months recovery, as I am now, there's still plenty more ahead of me. However, I think the majority of what is most eventful has already happened now. Physical and mental recovery continue, but at a minor level compared to how they were influencing me at the start.

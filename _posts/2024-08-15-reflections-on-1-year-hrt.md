@@ -3,7 +3,7 @@ layout: post
 title:  "Reflections on 1 year of hormone replacement"
 date:    2024-08-15 08:00:00 -0400
 categories: ["transition", "hrt"]
-tags: ["Transition", "HRT"]
+tags: ["Transition", "HRT", "Reflection"]
 ---
 
 Recently I hit my 1-year mark of hormone replacement therapy (HRT). Many trans folks consider the year markers to be like the anniversaries of their rebirth. I’m not sure I hold hormones alone in such high regard. However, they have been a welcome and important part of my growth both physical and mentally in the last 12 months.
